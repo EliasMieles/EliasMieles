@@ -1,16 +1,20 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Elías
 
-<!--
-**EliasMieles/EliasMieles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador de software con experiencia en Node.js, Java, Bash, y más. Aquí puedes encontrar algunos de los proyectos en los que estoy trabajando o en los que he trabajado.
 
-Here are some ideas to get you started:
+## 🔧 Tecnologías y Herramientas:
+- Java, JavaFX
+- Node.js
+- Bash scripting
+- Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Actualmente aprendiendo:
+- Java Servlets y JSP
+- Sprin Boot 
+- Docker y Kubernetes
+- Patrones de diseño
+
+## 📫 Cómo contactarme:
+- [LinkedIn](https://www.linkedin.com/in/mi-usuario)
+- [Correo](mailto:mi-correo@example.com)
+
